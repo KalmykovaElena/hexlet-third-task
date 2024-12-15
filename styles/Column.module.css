@@ -1,0 +1,14 @@
+.column {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .columnTitle {
+    text-align: center;
+  }
+  
+  .documentList {
+    margin-top: 10px;
+  }
